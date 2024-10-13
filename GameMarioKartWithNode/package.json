@@ -1,0 +1,17 @@
+{
+    "name": "gamemariocartwithnode",
+    "version": "1.0.0",
+    "type": "module",
+    "main": "index.js",
+    "scripts": {
+        "format": "prettier --write .",
+        "dev": "node src/index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "devDependencies": {
+        "prettier": "^3.3.3"
+    }
+}
