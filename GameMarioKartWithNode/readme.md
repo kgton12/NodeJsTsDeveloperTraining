@@ -1,7 +1,7 @@
 
 # Mario Kart.JS
 
-![Mario Kart](./GameMarioKartWithNode/docs/header.gif)
+![Mario Kart](./docs/header.gif)
 
 ## Objetivo
 
