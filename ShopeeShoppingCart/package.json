@@ -1,0 +1,17 @@
+{
+    "name": "shopeeshoppingcart",
+    "version": "1.0.0",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "format": "prettier --write .",
+        "dev": "node src/main.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "devDependencies": {
+        "prettier": "^3.3.3"
+    }
+}
