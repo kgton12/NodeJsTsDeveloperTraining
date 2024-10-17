@@ -1,0 +1,20 @@
+[
+    {
+        "podcastName": "Podcast1",
+        "episode": "Episode1",
+        "videoId": "videoId1",
+        "categories": ["category1", "category2"]
+    },
+    {
+        "podcastName": "Podcast2",
+        "episode": "Episode2",
+        "videoId": "videoId2",
+        "categories": ["category1", "category3"]
+    },
+    {
+        "podcastName": "Podcast3",
+        "episode": "Episode3",
+        "videoId": "videoId3",
+        "categories": ["category2", "category3"]
+    }
+]
