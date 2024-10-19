@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "name": "Lionel Messi",
+        "club": "Inter Miami",
+        "nationality": "Argentino",
+        "position": "Atacante",
+        "statistics": {
+            "overall": 93,
+            "pace": 88,
+            "shooting": 91,
+            "passing": 92,
+            "dribbling": 95,
+            "defending": 38,
+            "physical": 65
+        }
+    },
+
+    {
+        "id": 2,
+        "name": "Cristiano Ronaldo",
+        "club": "Al Nassr",
+        "nationality": "Português",
+        "position": "Atacante",
+        "statistics": {
+            "overall": 91,
+            "pace": 89,
+            "shooting": 93,
+            "passing": 81,
+            "dribbling": 87,
+            "defending": 35,
+            "physical": 76
+        }
+    },
+    {
+        "id": 3,
+        "name": "Neymar Jr.",
+        "club": "Al-Hilal",
+        "nationality": "Brasileiro",
+        "position": "Atacante",
+        "statistics": {
+            "overall": 89,
+            "pace": 91,
+            "shooting": 88,
+            "passing": 86,
+            "dribbling": 95,
+            "defending": 38,
+            "physical": 59
+        }
+    },
+    {
+        "id": 4,
+        "name": "Kevin De Bruyne",
+        "club": "Manchester City",
+        "nationality": "Belga",
+        "position": "Meio-campista",
+        "statistics": {
+            "overall": 91,
+            "pace": 77,
+            "shooting": 87,
+            "passing": 93,
+            "dribbling": 88,
+            "defending": 55,
+            "physical": 70
+        }
+    },
+    {
+        "id": 5,
+        "name": "Kylian Mbappé",
+        "club": "Paris Saint-Germain",
+        "nationality": "Francês",
+        "position": "Atacante",
+        "statistics": {
+            "overall": 92,
+            "pace": 97,
+            "shooting": 89,
+            "passing": 83,
+            "dribbling": 91,
+            "defending": 37,
+            "physical": 75
+        }
+    }
+]
