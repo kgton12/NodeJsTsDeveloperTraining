@@ -4,8 +4,9 @@
 	"main": "index.js",
 	"type": "module",
 	"scripts": {
-		"dev": "node --watch src/server.ts",
-		"format": "npx @biomejs/biome check --write src/"
+		"watch": "node --watch --env-file=.env src/server.ts",
+		"format": "npx @biomejs/biome check --write src/",
+		"dev": "node --env-file=.env src/server.ts"
 	},
 	"keywords": [],
 	"author": "",
@@ -20,6 +21,7 @@
 		"zod": "^3.24.2"
 	},
 	"devDependencies": {
-		"@biomejs/biome": "1.9.4"
+		"@biomejs/biome": "1.9.4",
+		"@types/node": "^22.13.9"
 	}
 }
