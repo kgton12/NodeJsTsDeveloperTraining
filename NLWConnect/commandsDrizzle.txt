@@ -1,0 +1,2 @@
+npx drizzle-kit generate -> gera as migrations
+npx drizzle-kit migrations -> executa as migrations no DB
