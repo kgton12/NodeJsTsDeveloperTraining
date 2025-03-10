@@ -4,6 +4,7 @@
 	"main": "index.js",
 	"type": "module",
 	"scripts": {
+		"build": "tsup-node",
 		"watch": "node --watch --env-file=.env src/server.ts",
 		"dev": "node --env-file=.env src/server.ts",
 		"format": "npx @biomejs/biome check --write src/"
@@ -26,6 +27,7 @@
 	"devDependencies": {
 		"@biomejs/biome": "1.9.4",
 		"@types/node": "^22.13.9",
-		"drizzle-kit": "^0.30.5"
+		"drizzle-kit": "^0.30.5",
+		"tsup": "^8.4.0"
 	}
 }
